@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Library](https://img.shields.io/badge/Library-Scikit--Learn-orange)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+
 📊 Loan Subscription Prediction using Machine Learning
 
 🚀 Project Overview
