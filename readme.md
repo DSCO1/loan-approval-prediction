@@ -197,20 +197,19 @@ A prediction function was implemented to:
 
 📂 Project Structure
 loan-approval-prediction/
-│
-├── data/
-│   └── bank_data.csv
-│
-├── notebooks/
-│   └── loan_prediction.ipynb
-│
-├── models/
-│   ├── loan_model.pkl
-│   ├── scaler.pkl
-│   └── columns.pkl
-│
-├── README.md
-├── .gitignore
+  data
+    bank_data.csv
+
+  notebooks/
+    loan_prediction.ipynb
+
+  models/
+    loan_model.pkl
+    scaler.pkl
+    columns.pkl
+
+  README.md
+  .gitignore
 ---
 
 📌 Future Improvements
