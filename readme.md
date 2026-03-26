@@ -196,7 +196,6 @@ A prediction function was implemented to:
 ---
 
 📂 Project Structure
-
 loan-approval-prediction/
 │
 ├── data/
