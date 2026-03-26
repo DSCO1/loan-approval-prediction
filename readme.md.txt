@@ -212,7 +212,6 @@ loan-approval-prediction/
 │
 ├── README.md
 ├── .gitignore
-
 ---
 
 📌 Future Improvements
