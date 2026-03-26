@@ -4,7 +4,9 @@
 ![Library](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-yellow)
 
-📊 Loan Subscription Prediction using Machine Learning
+# 🏦 Loan Subscription Prediction using Machine Learning
+
+
 
 🚀 Project Overview
 Loan subscription prediction is a crucial problem in the banking sector, where identifying potential customers can significantly improve marketing efficiency and business revenue.
